@@ -53,5 +53,5 @@ Any additional information goes here
 
 2. Esposito F., Malerba D., & Semeraro G.
 
-  Multistrategy Learning for Document Recognition
+   Multistrategy Learning for Document Recognition
          Applied Artificial Intelligence, 8, pp. 33-84, 1994
