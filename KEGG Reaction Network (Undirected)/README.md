@@ -5,6 +5,8 @@ KEGG Metabolic pathways can be realized into network. Two kinds of network / gra
 
 ## Demo
 
+![Gif file](KEGGanim_figure_ishemia.gif) / ! [](KEGGanim_figure_ishemia.gif)
+
 https://biit.cs.ut.ee/KEGGanim/images/KEGGanim_figure_ishemia.gif
 
 https://biit.cs.ut.ee/KEGGanim/img/Kwp54/04111.gif?0.386570969166907
