@@ -1,7 +1,16 @@
 
 ## Project Description
 
-KEGG Metabolic pathways can be realized into network. Two kinds of network / graph can be formed. These include Reaction Network and Relation Network. In Reaction network, Substrate or Product compound are considered as Node and genes are treated as edge. Whereas in the relation network, Substrate and Product componds are considered as Edges while enzyme and genes are placed as nodes. We tool large number of metabolic pathways from KEGG XML. They were modeled into the graph as described above. With the help of Cytoscape tool, variety of network features were compunted.
+KEGG Metabolic pathways can be realized into different networks. Two kinds of network / graph can be formed. These include the Reaction Network and Relation Network. In the Reaction network, Substrate or Product compounds are considered as Nodes, while genes are treated as Edges. In the Relation network, however, Substrate and Product componds are considered as Edges while enzymes and genes are placed as Nodes. A large number of metabolic pathways was tooled from KEGG XML. They were modeled into the metabolic graphs as described above. With the help of the Cytoscape tool, a variety of network features were computed.
+
+This project focuses on modelling the KEGG metabolic pathway on the Relatio network.
+
+## Demo
+
+![Gif file](KEGGanim_figure_ishemia.gif)
+![Another gif file](04111.gif)
+
+
 ## Features
 
 Attribute Information:
@@ -41,12 +50,12 @@ Attribute Information:
 ## Appendix
 
 Data Source:
+1. Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
 
-KEGG Metabolic pathways can be realized into network. Two kinds of network / graph can be formed. These include Reaction Network and Relation Network. In Reaction network, Substrate or Product compound are considered as Node and genes are treated as edge. Whereas in the relation network, Substrate and Product componds are considered as Edges while enzyme and genes are placed as nodes. We tool large number of metabolic pathways from KEGG XML. They were modeled into the graph as described above. With the help of Cytoscape tool, variety of network features were compunted.
 ## Authors
 
 1. Muhammad Naeem, Centre of Research in Data Engineering (CORDE) & Department of Computer Science, MAJU Islamabad Pakistan (naeems.naeem@gmail.com).
 2. Sohail Asghar, Director/Associate Professor University Institute of IT PMAS-Arid Agriculture University,Rawalpindi Pakistan, Centre of Research in Data Engineering (CORDE),(sohail.asghar@gmail.com)
 
 ## Citation
-1. Naeem M,Asghar S, Centre of Research in Data Engineering Islamabad Pakistan, naeems.naeem@gmail.com, sohail.asg@gmail.com
+1. Naeem M., Asghar S., Centre of Research in Data Engineering Islamabad Pakistan, naeems.naeem@gmail.com, sohail.asg@gmail.com
