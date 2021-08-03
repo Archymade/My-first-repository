@@ -3,7 +3,7 @@
 
 KEGG Metabolic pathways can be realized into different networks. Two kinds of network / graph can be formed. These include the Reaction Network and Relation Network. In the Reaction network, Substrate or Product compounds are considered as Nodes, while genes are treated as Edges. In the Relation network, however, Substrate and Product componds are considered as Edges while enzymes and genes are placed as Nodes. A large number of metabolic pathways was tooled from KEGG XML. They were modeled into the metabolic graphs as described above. With the help of the Cytoscape tool, a variety of network features were computed.
 
-This project focuses on modelling the KEGG metabolic pathway on the Relatio network.
+This project focuses on modelling the KEGG metabolic pathway on the Relation network.
 
 ## Demo
 
