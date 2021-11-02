@@ -3,7 +3,6 @@
 
 **Page Block Classification**
 
-Binarized version of the original dataset. The multi-class target feature is converted to a two-class nominal target feature by re-labeling the majority class as positive ('P') and all others as negative ('N'). Originally converted by Quan Sun.
 
 ## Problem Statement
 
